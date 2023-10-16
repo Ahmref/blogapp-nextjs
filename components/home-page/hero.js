@@ -5,7 +5,7 @@ function Hero() {
     <section className={classes.hero}>
       <div className={classes.image}>
         <Image
-          src="/images/site/profile.jpeg"
+          src="https://github.com/Ahmref/blogapp-nextjs/blob/main/public/Images/site/profile.jpeg"
           alt="an image showing me"
           width={100}
           height={100}
