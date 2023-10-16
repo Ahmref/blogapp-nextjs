@@ -33,7 +33,7 @@ function PostContent(props) {
         return (
           <div className={classes.image}>
             <Image
-              src={`/images/posts/${post.slug}/${image.properties.src}`}
+              src={`/public/images/posts/${post.slug}/${image.properties.src}`}
               alt={image.alt}
               width={600}
               height={300}
